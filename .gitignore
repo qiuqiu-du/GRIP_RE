@@ -1,0 +1,20 @@
+# 项目排除路径
+/data/
+/log_refine1_30/
+/log_refine1_100/
+/log_refine1_100_0m/
+/log_refine1_100_5m/
+/log_refine1_100_15m/
+/log_refine2_200/
+/test_eval_data/
+/trained_models_30/
+/trained_models_100/
+/trained_models_100_0m/
+/trained_models_100_5m/
+/trained_models_100_15m/
+/trained_models_100_G/
+/trained_models_200/
+*.txt
+*.json
+*.pkl
+*.png
